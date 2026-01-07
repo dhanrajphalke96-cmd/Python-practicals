@@ -9,7 +9,7 @@ while True:
     user = int(input("Enter a number between 1 and 100: "))
     no_of_guesses += 1
     if no_of_guesses > 10:
-        print("Sorry, you've used all your guesses. The correct number was", computer)
+        print("Sorry, GAME OVER! The number was", computer)
         break
 
     if user < 1 or user > 100:
