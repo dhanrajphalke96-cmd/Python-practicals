@@ -1,2 +1,2 @@
 # Python-practicals
-# This repositories consist Pyton practical
+# This repositories consist Python practical
